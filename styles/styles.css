@@ -1,0 +1,33 @@
+/* GENERAL */
+*{
+    padding: 0;
+
+}
+/* HEADER */
+
+header h1{
+    background-color: blanchedalmond;
+    color: blueviolet;
+    text-align: center;
+}
+
+header nav ul{
+    padding: 0;
+    text-align: center;
+    background-color: rgb(132 152 185);
+}
+
+header nav ul li{
+    display: inline-block;
+    background-color: aquamarine;
+    width: 60px;
+    padding: 15px;
+    height: 20px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: orangered;
+
+}
+
